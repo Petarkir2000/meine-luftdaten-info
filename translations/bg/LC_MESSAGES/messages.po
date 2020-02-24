@@ -843,7 +843,7 @@ msgid ""
 "Unfortunately the link is not correct. Either it is too old, or it was "
 "not copied completely. Please try again."
 msgstr ""
-За съжаление връзката не е правилна. Или е твърде стара, или не е копирана"
+"За съжаление връзката не е правилна. Или е твърде стара, или не е копирана"
 " напълно. Моля, опитайте отново."
 
 #: webapp/templates/recover-mail-sent-again.html:13
